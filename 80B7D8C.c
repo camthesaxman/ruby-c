@@ -1,0 +1,4 @@
+void ContestEffect_00()
+{
+  ;
+}

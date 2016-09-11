@@ -1,0 +1,8 @@
+int PlayerAllowForcedMovementIfMovingSameDirection()
+{
+  int v1; // [sp+0h] [bp-4h]@0
+
+  if ( v202E85A == 2 )
+    v202E858 &= 0xDFu;
+  return v1;
+}
